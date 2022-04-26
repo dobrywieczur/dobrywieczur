@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karol
-- 👀 I’m interested in whatever interests me!
 - 🌱 I’m currently learning java!
+- 💦 One day i'll put here something cool, i swear!
 
 <!---
 dobrywieczur/dobrywieczur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
